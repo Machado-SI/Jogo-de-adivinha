@@ -8,8 +8,8 @@ Uma CLI divertida para jogar adivinhação de números diretamente no terminal!
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://https://github.com/Machado-SI/Jogo-de-adivinha
+cd Jogo-de-adivinha
 
 # Instalar globalmente
 npm install -g .
