@@ -8,7 +8,7 @@ Uma CLI divertida para jogar adivinhação de números diretamente no terminal!
 
 ```bash
 # Clonar o repositório
-git clone https://https://github.com/Machado-SI/Jogo-de-adivinha
+git clone https://github.com/Machado-SI/Jogo-de-adivinha
 cd Jogo-de-adivinha
 
 # Instalar globalmente
