@@ -1,8 +1,8 @@
-## 🎯 Jogo de Adivinhação de Números - CLI
+#  Jogo de Adivinhação de Números - CLI
 
 Uma CLI divertida para jogar adivinhação de números diretamente no terminal!
 
-## 🚀 Como Usar
+##  Como Usar
 
 ### Opção 1: Instalar Globalmente (recomendado)
 
