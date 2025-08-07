@@ -4,7 +4,7 @@ Uma CLI divertida para jogar adivinhação de números diretamente no terminal!
 
 ##  Como Usar
 
-### Opção 1: Instalar Globalmente (recomendado)
+### Instalar Globalmente (recomendado)
 
 ```bash
 # Clonar o repositório
